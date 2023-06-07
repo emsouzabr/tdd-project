@@ -1,0 +1,9 @@
+2 Diferenças entre Testes Funcionais e Testes de Unidade:
+
+    1 - Escopo:
+        Testes de Unidade: Focam em testar unidades individuais do software, como métodos ou funções específicas.
+        Testes Funcionais: Avaliam o sistema como um todo ou uma parte significativa dele, verificando a funcionalidade completa.
+
+    2 - Dependências:
+        Testes de Unidade: São independentes e utilizam dublês, como mocks, para simular dependências externas.
+        Testes Funcionais: Incluem todas as dependências reais do software, como bancos de dados ou serviços externos.
