@@ -1,0 +1,18 @@
+Uma breve descrição desse processo seria:
+1. escreva um teste funcional
+2. rode o teste funcional
+3. o teste falhará
+    3.1. escreva um código mínimo
+        3.1.1. escreva um teste de unidade
+        3.1.2. rode o teste de unidade
+        3.1.4. o teste de unidade falhará
+        3.1.3. escreva um código mínimo
+        3.1.5. rode o teste de unidade novamente
+        3.1.6. o teste de unidade passará
+        3.1.7. se precisar, refatore e retorne ao passo 3.1.4
+        3.1.8. se não precisar de refatoração, saia do ciclo
+4. rode o teste funcional novamente
+5. o teste funcional passará
+6. se precisar, refatore e retorne ao passo 3.1
+7. se não precisar de refatoração, saia do ciclo
+8. se precisar reinicie um novo ciclo
